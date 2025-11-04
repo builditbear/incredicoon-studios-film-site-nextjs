@@ -1,0 +1,18 @@
+@import 'tailwindcss';
+
+@font-face {
+  font-family: 'Rawengulk Sans';
+  src:
+    url('/fonts/rawengulk-sans/RawengulkSan-094.otf') format('opentype'),
+    url('/fonts/rawengulk-sans/RawengulkSans-094.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Global styles */
+body {
+  background-color: #f8e8e8; /* Light pink background color */
+  min-height: 100vh;
+  font-family: 'Rawengulk Sans', sans-serif; /* Apply font globally */
+}
