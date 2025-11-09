@@ -1,6 +1,5 @@
 import CardCarousel from "./components/card-carousel";
 import FeaturedWorks from "./components/featured-works";
-import Navbar from "./components/navbar";
 
 export default function HomePage() {
   return (
