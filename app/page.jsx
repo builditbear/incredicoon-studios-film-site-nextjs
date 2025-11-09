@@ -30,7 +30,7 @@ function Navbar() {
 
       {/* Right section - Social media icons */}
       <div className="flex gap-6">
-        <a href="#" className="hover:opacity-80">
+        <a href="https://www.imdb.com/name/nm13027199/?ref_=ext_shr_lnk" className="hover:opacity-80">
           <svg
             className="h-6 w-12"
             viewBox="0 0 96 48"
@@ -55,7 +55,7 @@ function Navbar() {
             />
           </svg>
         </a>
-        <a href="#" className="hover:opacity-80">
+        <a href="https://www.linkedin.com/in/stephaniewardharvey/" className="hover:opacity-80">
           <svg
             className="h-6 w-6"
             viewBox="0 0 48 48"
@@ -75,7 +75,7 @@ function Navbar() {
             </defs>
           </svg>
         </a>
-        <a href="#" className="hover:opacity-80">
+        <a href="https://www.youtube.com/@incredicoonstudios1778" className="hover:opacity-80">
           <svg
             className="h-6 w-6"
             viewBox="0 0 48 48"
@@ -88,7 +88,7 @@ function Navbar() {
             />
           </svg>
         </a>
-        <a href="#" className="hover:opacity-80">
+        <a href="https://www.instagram.com/incredicoonstudios/" className="hover:opacity-80">
           <svg
             className="h-6 w-6"
             viewBox="0 0 48 48"
@@ -116,7 +116,7 @@ function Navbar() {
             </defs>
           </svg>
         </a>
-        <a href="#" className="hover:opacity-80">
+        <a href="https://www.facebook.com/stephanie.wardhenle/" className="hover:opacity-80">
           <svg
             className="h-6 w-6"
             fill="white"
