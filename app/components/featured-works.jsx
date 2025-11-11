@@ -14,13 +14,13 @@ export default function FeaturedWorks({ imageSrc, roleInProduction, movieTitle, 
       </div> 
       <div className="relative px-8 py-6">
         <div className="flex items-center justify-between">
-          <div className="text-3xl font-bold text-black drop-shadow-lg">
+          <div className="text-2xl text-black">
             {roleInProduction}
           </div>
-          <div className="text-2xl font-light text-black">
+          <div className="text-2xl text-black">
             {movieTitle}
           </div>
-          <div className="text-2xl font-light text-black">
+          <div className="text-2xl text-black">
             {releaseYear}
           </div>
         </div>
