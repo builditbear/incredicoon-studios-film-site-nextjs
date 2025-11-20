@@ -6,7 +6,7 @@ export default function Navbar() {
         <a href="/" className="hover:text-gray-300">
           Home
         </a>
-        <a href="/about" className="hover:text-gray-300">
+        <a href="/about-me" className="hover:text-gray-300">
           About Me
         </a>
         <a href="/film-reel" className="hover:text-gray-300">
